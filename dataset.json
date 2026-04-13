@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in St. Louis, Missouri with a population of over 301k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in St. Louis, Missouri, US",
+  "export_job_id": "002b51d6-d0b5-46fc-b47d-25140ac4736a",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 560907,
+  "location_name": "St. Louis",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-st-louis-missouri-us-sample-560907",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/560907/beamstation_560907_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_pct": 4.58,
+  "sample_records": 25,
+  "sample_sha256": "1d88ce18e85be46a6df7c01586bf6429e6579077a100d8565d9b8cdd073381e2",
+  "sample_size_bytes": 116850,
+  "total_records": 546,
+  "updated_at": "2026-03-31T17:04:27.997979+00:00"
+}
