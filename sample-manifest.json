@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b6b02d24-34cd-4701-bcec-4ac74b8057cd",
+  "export_job_id": "ac1b4510-b398-49be-8813-0c83c73c740d",
   "id_short": 560907,
-  "published_at": "2026-04-17T19:39:48Z",
+  "published_at": "2026-04-22T07:39:49Z",
   "repo_name": "all-restaurants-in-st-louis-missouri-us-sample-560907",
   "sample_asset_name": "beamstation_560907_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/560907/beamstation_560907_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "92884ef45177981acb899828c8028b0fc16bb4e6e1e00aeef14819b15f1c12c5",
-  "sample_size_bytes": 220173,
-  "total_records": 599
+  "sample_records": 118,
+  "sample_sha256": "12a3212e64e40de61acc481385e4d686543d9ccb6eb94de41ad91faa6639f919",
+  "sample_size_bytes": 428849,
+  "total_records": 1180
 }
